@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ALE Pricing Hub
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      1.1
 // @description  ALE job pricing calculator — wraps, stickers, corflutes and more
 // @author       ALE
 // @match        *://*.aroflo.com/*
@@ -348,7 +348,7 @@
       { label: '2400 × 1200mm — Rope & Eyelets',             w: 2400, h: 1200, mount: 'rope_eyelet', flatRate: 325  },
       { label: '3000 × 1200mm — Rope & Eyelets',             w: 3000, h: 1200, mount: 'rope_eyelet', flatRate: 450  },
       { label: '3000 × 1500mm — Rope & Eyelets (Promo)',     w: 3000, h: 1500, mount: 'rope_eyelet', flatRate: 395  },
-      { label: '6000 × 3000mm — Billboard, Keder+Sailtrack', w: 6000, h: 3000, mount: 'keder_sail',  flatRate: 1625 },
+      { label: '6000 × 3000mm — Billboard, Keder + Sailtrack', w: 6000, h: 3000, mount: 'keder_sail',  flatRate: 1625 },
     ],
   };
 
