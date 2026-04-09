@@ -5,6 +5,8 @@
 // @description  ALE job pricing calculator — wraps, stickers, corflutes and more
 // @author       ALE
 // @match        *://*.aroflo.com/*
+// @updateURL    https://raw.githubusercontent.com/ALEGroupCO/ALE-Pricing-Hub/main/ale-pricing-hub.user.js
+// @downloadURL  https://raw.githubusercontent.com/ALEGroupCO/ALE-Pricing-Hub/main/ale-pricing-hub.user.js
 // @grant        GM_setClipboard
 // @grant        GM_addStyle
 // @grant        GM_getValue
